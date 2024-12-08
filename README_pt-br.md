@@ -2,56 +2,56 @@
 
 ### Instalação
 
-•	Instale a versão mais recente do [Slicer Stable Release](https://download.slicer.org/) (atualmente 3D Slicer-5.6.2)
-•	Abra o [repositório do Tutorial Maker no GitHub](https://github.com/SlicerLatinAmerica/TutorialMaker)
-•	Clique no botão verde ‘Código’ e selecione a opção ‘Baixar ZIP’, conforme mostrado na imagem abaixo, para baixar o arquivo ‘TutorialMaker.zip’ em seu computador
-•	Extraia o arquivo ‘TutorialMaker.zip’ para acessar o diretório ‘TutorialMaker-main’
-•	**Usuários do Windows**:
-  i. Abra o 3D Slicer
-  ii. Arraste e solte a pasta `TutorialMaker` para a janela do aplicativo Slicer
-  iii. Aparecerá uma primeira janela pop-up, ‘Selecionar um leitor’. Selecione ‘Adicionar módulos em Python ao aplicativo’ e clique em OK.
-  iv. Uma segunda janela pop-up aparecerá para carregar o módulo do Tutorial Maker. Clique em ‘Sim’.
+-	Instale a versão mais recente do [Slicer Stable Release](https://download.slicer.org/) (atualmente 3D Slicer-5.6.2)
+-	Abra o [repositório do Tutorial Maker no GitHub](https://github.com/SlicerLatinAmerica/TutorialMaker)
+-	Clique no botão verde ‘Código’ e selecione a opção ‘Baixar ZIP’, conforme mostrado na imagem abaixo, para baixar o arquivo ‘TutorialMaker.zip’ em seu computador
+-	Extraia o arquivo ‘TutorialMaker.zip’ para acessar o diretório ‘TutorialMaker-main’
+-	**Usuários do Windows**:
+  1. Abra o 3D Slicer
+  2. Arraste e solte a pasta `TutorialMaker` para a janela do aplicativo Slicer
+  3. Aparecerá uma primeira janela pop-up, ‘Selecionar um leitor’. Selecione ‘Adicionar módulos em Python ao aplicativo’ e clique em OK.
+  4. Uma segunda janela pop-up aparecerá para carregar o módulo do Tutorial Maker. Clique em ‘Sim’.
 ![TutorialMakerInstall](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/17ffda20-ee58-4e52-91c8-755655725d83)
 
-•	**Usuários do MacOs**:
-  i.	Inicie o 3D Slicer
-  ii.	Selecione 'Editar' no menu principal
-  iii.	Escolha 'Configurações do aplicativo'
-  iv.	Uma janela 'Parâmetros' aparecerá: selecione 'Módulos' no painel à esquerda
-  v.	Selecione o arquivo 'TutorialMaker.py'
-  vi.	Arraste e solte o arquivo `TutorialMaker.py`, localizado no subdiretório 'TutorialMaker-main/TutorialMaker/', no campo 'Caminhos adicionais de módulos' e clique em 'OK' para reiniciar o Slicer.
+-	**Usuários do MacOs**:
+  1.	Inicie o 3D Slicer
+  2.	Selecione 'Editar' no menu principal
+  3.	Escolha 'Configurações do aplicativo'
+  4.	Uma janela 'Parâmetros' aparecerá: selecione 'Módulos' no painel à esquerda
+  5.	Selecione o arquivo 'TutorialMaker.py'
+  6.	Arraste e solte o arquivo `TutorialMaker.py`, localizado no subdiretório 'TutorialMaker-main/TutorialMaker/', no campo 'Caminhos adicionais de módulos' e clique em 'OK' para reiniciar o Slicer.
 ![TutorialMakerInstallMac](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/1aad7764-0eb6-4f2e-8a5e-ba46c3cf373d)
 
 
 ### Como usar o Tutorial Maker
 
-•	Selecione o módulo 'Tutorial Maker' na categoria 'Utilitários', na lista de módulos do Slicer
+-	Selecione o módulo 'Tutorial Maker' na categoria 'Utilitários', na lista de módulos do Slicer
 ![image](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/27aacc36-289f-44ae-b683-379879ac6a4d)
 > [!IMPORTANTE]
 > Antes de iniciar este tutorial, altere o Slicer para o modo de tela cheia e defina o tamanho da fonte para 14pt para garantir que as capturas de tela sejam fáceis de ler.
-•	Selecione `fourMin_tutorial`
+-	Selecione `fourMin_tutorial`
 ![image](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/2679e958-9148-4a4f-9693-7ad7951dcdfe)
-•	Clique em `Executar e Anotar`
+-	Clique em `Executar e Anotar`
 ![image](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/fa566723-0bd4-4b68-9d12-c8848fbe8ff6)
 
 
 ### Ferramenta de anotação
 
-•	As capturas de tela serão exibidas à esquerda
+-	As capturas de tela serão exibidas à esquerda
 ![image](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/ce9ccb56-09af-444c-b5d9-613310457f3f)
-•	Cada captura de tela inclui um título (seta verde) e uma seção de comentários (seta vermelha) 
+-	Cada captura de tela inclui um título (seta verde) e uma seção de comentários (seta vermelha) 
 ![image](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/3d76a58f-200a-49e4-8cfa-4b782eba0dcf)
-•	Selecione uma das três ferramentas para fazer anotações
+-	Selecione uma das três ferramentas para fazer anotações
 ![image](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/32139961-fb7f-4400-8f10-808cb159aa0c)
-•	Depois de selecionar uma ferramenta, defina o estilo e o texto da anotação
+-	Depois de selecionar uma ferramenta, defina o estilo e o texto da anotação
 ![image](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/95e88f01-8dee-447e-a8d1-33be530b5ac1)
-•	Em seguida, clique no elemento que receberá a anotação
+-	Em seguida, clique no elemento que receberá a anotação
 ![TutorialMakenAnnotation](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/49ef485f-c880-4a96-b4b5-75304752e5dc)
 
 > [!AVISO]
 > Para pessoas com epilepsia, a tela piscará a cada captura de tela.
 
-•	Depois de criar todas as anotações, clique em salvar arquivo
+-	Depois de criar todas as anotações, clique em salvar arquivo
 ![image](https://github.com/SlicerLatinAmerica/TutorialMaker/assets/28208639/dae54655-744f-44cc-84e1-1cbb61155b4f)
 <!--
 > [!AVISO]  
